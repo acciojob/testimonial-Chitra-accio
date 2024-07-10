@@ -14,15 +14,26 @@
 	height:50px;
 	padding:1px;
 	margin:10px;
-	border:1px;
+	border:10px;
+	font-size:10px;
+	line-height:30px;
 	background-color:white;
 }
 #eg5{
 	width:490px;
 	height:50px;
 	padding:1px;
-
-	margin-inline:50px;
-	border:1px;	
+	border:10px;
+    margin-inline:10px;
+	font-size:10px;
+	line-height:40px;
 	background-color:white;
+}
+#eg6{
+	text-align:right;
+	font-style:italic;
+}
+#eg7{
+	text-align:right;
+	font-style:italic;
 }
