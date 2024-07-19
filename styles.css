@@ -26,6 +26,7 @@ span{
 	border:10px;
 	font-size:10px;
 	background-color:white;
+	font-style:normal;
 }
 .box2{
 	width:490px;
@@ -35,4 +36,5 @@ span{
     margin:10px;
 	font-size:10px;
 	background-color:white;
+	font-style:normal;
 }
