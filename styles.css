@@ -13,12 +13,12 @@
 	font-size:10px;
 	text-align:top left;
 }
-span{
+#Author{
 	display:block;
 	text-align:right;
 	font-style:italic;
 }
-#box1{
+#text{
 	width:490px;
 	height:50px;
 	padding:1px;
@@ -27,14 +27,5 @@ span{
 	font-size:10px;
 	background-color:white;
 	font-style:normal;
-}
-#box2{
-	width:490px;
-	height:50px;
-	padding:1px;
-	border:10px;
-    margin:10px;
-	font-size:10px;
-	background-color:white;
-	font-style:normal;
+	line-height:30px;
 }
