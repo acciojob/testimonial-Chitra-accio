@@ -13,15 +13,18 @@
 	font-size:10px;
 	text-align:top left;
 }
-#Author{
-	display:block;
+.testimonial{
+	padding:0;
+	margin:0;
+}
+.Author{
 	text-align:right;
 	font-style:italic;
+	font-size:14px;
 }
-#text{
+.text{
 	width:490px;
 	height:50px;
-	padding:1px;
 	margin:10px;
 	border:10px;
 	font-size:10px;
